@@ -31,6 +31,7 @@ Start with the hook document! Then,
 - View analysis.ipynb and record your results!
 
 ## Repo Map
+```
 .
 ├── CS3-Hook.pdf: Start Here!
 ├── CS3-Rubric.pdf: Assignment rubric.
@@ -46,10 +47,15 @@ Start with the hook document! Then,
 │   └── analysis.ipynb: perform analysis and generate visualizations
 └── REFERENCES/
     └── Supplementary reading material
+```
 
 ## References:
 [1] K. Bostoganashvili, “Spam Filters Explained [2025].” Accessed: Jan. 30, 2025. [Online]. Available: https://mailtrap.io/blog/spam-filters/
+
 [2] Fortinet, Inc., “What is a Spam Filter & Spam Filtering?,” Fortinet. Accessed: Apr. 28, 2025. [Online]. Available: https://www.fortinet.com/resources/cyberglossary/spam-filters
+
 [3] Oklahoma State University Stillwater, “Malicious Emails and Financial Scams - Oklahoma State University.” Accessed: Jan. 30, 2025. [Online]. Available: https://it.okstate.edu/resources/security-education/malicious-emails.html
+
 [4] S. Sayyafzadeh, M. Weatherspoon, J. Yan, and H. Chi, “Securing Against Deception: Exploring Phishing Emails Through ChatGPT and Sentiment Analysis,” in 2024 IEEE/ACIS 22nd International Conference on Software Engineering Research, Management and Applications (SERA), 2024, pp. 159–165. doi: 10.1109/SERA61261.2024.10685564.
+
 [5] A. Simha, “Understanding TF-IDF for Machine Learning,” Capital One. Accessed: Apr. 28, 2025. [Online]. Available: https://www.capitalone.com/tech/machine-learning/understanding-tf-idf/
