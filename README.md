@@ -31,6 +31,7 @@ Start with the hook document! Then,
 - View analysis.ipynb and record your results!
 
 ## Repo Map
+```
 .
 ├── CS3-Hook.pdf: Start Here!
 ├── CS3-Rubric.pdf: Assignment rubric.
@@ -46,6 +47,7 @@ Start with the hook document! Then,
 │   └── analysis.ipynb: perform analysis and generate visualizations
 └── REFERENCES/
     └── Supplementary reading material
+```
 
 ## References:
 [1] K. Bostoganashvili, “Spam Filters Explained [2025].” Accessed: Jan. 30, 2025. [Online]. Available: https://mailtrap.io/blog/spam-filters/
